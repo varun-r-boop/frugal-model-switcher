@@ -8,3 +8,4 @@ prompt,intent
 "Convert this sentence into passive voice",simple
 "Write a C# method to send an HTTP request",code
 "Compose a poem about summer",creative
+"Paraphrase this",summary
