@@ -9,3 +9,12 @@ prompt,intent
 "Write a C# method to send an HTTP request",code
 "Compose a poem about summer",creative
 "Paraphrase this",summary
+"Write a Python function to calculate factorial",code
+"Tell me a short story about a dragon",creative
+"What is the capital of France?",simple
+"Summarize the article about climate change",summary
+"Explain quantum entanglement",advanced
+"Generate a blog post for SEO on AI tools",seo
+"Convert this sentence into passive voice",simple
+"Write a C# method to send an HTTP request",code
+"Compose a poem about summer",creative
