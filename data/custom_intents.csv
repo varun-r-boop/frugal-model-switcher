@@ -18,3 +18,22 @@ prompt,intent
 "Convert this sentence into passive voice",simple
 "Write a C# method to send an HTTP request",code
 "Compose a poem about summer",creative
+"Write a JavaScript function to validate an email address",code
+"Describe a futuristic city in 100 words",creative
+"What is the boiling point of water?",simple
+"Summarize the latest news on AI regulation",summary
+"Explain the theory of relativity",advanced
+"Create an SEO-friendly blog intro for a productivity app",seo
+"Change this sentence to active voice",simple
+"Write a Java program to reverse a string",code
+"Write a haiku about autumn",creative
+"Rewrite this paragraph in simpler terms",summary
+"Write a Python script to scrape a website",code
+"Tell me a bedtime story about a robot",creative
+"Who was the first president of the USA?",simple
+"Summarize the book '1984' by George Orwell",summary
+"Describe how black holes are formed",advanced
+"Generate SEO content for a health supplement site",seo
+"Turn this statement into a question",simple
+"Create a C++ function to calculate Fibonacci numbers",code
+"Write a limerick about a cat",creative
