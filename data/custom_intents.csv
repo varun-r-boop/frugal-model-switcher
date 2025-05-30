@@ -37,3 +37,34 @@ prompt,intent
 "Turn this statement into a question",simple
 "Create a C++ function to calculate Fibonacci numbers",code
 "Write a limerick about a cat",creative
+"Write a SQL query to fetch top 5 customers by revenue",code
+"Imagine a world where humans can fly—describe a scene",creative
+"What is the chemical symbol for gold?",simple
+"Summarize the pros and cons of electric vehicles",summary
+"Explain how neural networks work",advanced
+"Generate an SEO-friendly description for a travel agency",seo
+"Convert this paragraph into bullet points",simple
+"Write a Rust function to sort a list",code
+"Compose a short story about time travel",creative
+"Rephrase this sentence to sound more professional",summary
+"Write a Bash script to back up a directory",code
+"Describe a magical forest from a fairy tale",creative
+"What is the currency used in Japan?",simple
+"Summarize the plot of 'Inception'",summary
+"Explain how blockchain ensures security",advanced
+"Write an SEO-optimized title for a fitness blog",seo
+"Transform this complex sentence into a simple one",simple
+"Write a Go program to fetch API data",code
+"Write a sonnet about the ocean",creative
+"Summarize the benefits of meditation",summary
+"Explain the difference between HTTP and HTTPS",advanced
+"Generate SEO tags for an online bookstore",seo
+"Write a PHP function to send an email",code
+"Create a fantasy tale involving a talking sword",creative
+"What's the largest planet in our solar system?",simple
+"Summarize the impact of social media on teens",summary
+"Explain the concept of recursion with an example",advanced
+"Generate SEO meta description for a food blog",seo
+"Rewrite this text for a 5th-grade reading level",simple
+"Create a Swift function to calculate BMI",code
+"Write a free verse poem about loneliness",creative
