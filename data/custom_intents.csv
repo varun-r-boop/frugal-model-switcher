@@ -99,3 +99,4 @@ prompt,intent
 "Change this sentence into a question",simple
 "Write a C function to count vowels in a string",code
 "Write a rhyming couplet about the stars",creative
+"Write a short story about a haunted lighthouse",creative
