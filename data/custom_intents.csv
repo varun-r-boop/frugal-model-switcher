@@ -68,3 +68,34 @@ prompt,intent
 "Rewrite this text for a 5th-grade reading level",simple
 "Create a Swift function to calculate BMI",code
 "Write a free verse poem about loneliness",creative
+"Write a Python function to check for palindrome",code
+"Invent a creature and describe its habitat",creative
+"What is the speed of light?",simple
+"Summarize the main points of the Agile methodology",summary
+"Explain the differences between supervised and unsupervised learning",advanced
+"Write SEO-friendly content for a personal finance website",seo
+"Change this paragraph to use simpler vocabulary",simple
+"Create a Java method to calculate compound interest",code
+"Write a short story about a haunted lighthouse",creative
+"Paraphrase this paragraph to avoid plagiarism",summary
+"Create a PowerShell script to monitor CPU usage",code
+"Describe a utopian society in the future",creative
+"What is the capital of Australia?",simple
+"Summarize the causes and effects of World War II",summary
+"Explain entropy in the context of thermodynamics",advanced
+"Generate SEO content for an online learning platform",seo
+"Rewrite this sentence to be more concise",simple
+"Write a Kotlin function to reverse a list",code
+"Compose a ballad about a wandering knight",creative
+"Summarize the health benefits of yoga",summary
+"Explain the concept of time dilation",advanced
+"Write SEO headlines for a mental health blog",seo
+"Write a JavaScript snippet to debounce a function",code
+"Write a fable with a moral lesson",creative
+"What is the freezing point of water in Celsius?",simple
+"Summarize the main findings of the IPCC climate report",summary
+"Explain the architecture of a microservices system",advanced
+"Generate a product description for a smart watch (SEO-optimized)",seo
+"Change this sentence into a question",simple
+"Write a C function to count vowels in a string",code
+"Write a rhyming couplet about the stars",creative
